@@ -89,13 +89,13 @@ Antes de utilizar esta API, asegúrate de tener los siguientes requisitos:
 1. Clona este repositorio en tu máquina local:
 
 ``` bash
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/JavierDuranFlores/Python-Fast-API-CRUD-MongoDB.git
 ```
 
 2. Accede al directorio del proyecto:
 
 ``` bash
-cd tu-repo
+cd Python-Fast-API-CRUD-MongoDB
 ```
 
 3. Crea un entorno virtual (recomendado):
